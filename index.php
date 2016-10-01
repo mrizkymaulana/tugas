@@ -3,4 +3,5 @@
 	echo "10115709 - Yulli Sumarningsih";
 	echo "10114110 - Idza Runianti Darusman";
 	echo "10114142 - Desti Kurniawati";
+	echo "10114114 - Dimar Radhian";
 
